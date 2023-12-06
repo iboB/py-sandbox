@@ -1,0 +1,18 @@
+[project]
+name = "ibob_py_sandbox"
+version = "0.0.1"
+authors = [
+  { name="Borislav Stanimirov" },
+]
+description = "Personal experiments with Python, pip, and Python stacks as a whole"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/iboB/py-sandbox"
+Issues = "https://github.com/iboB/py-sandbox/issues"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
