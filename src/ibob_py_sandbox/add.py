@@ -1,4 +1,4 @@
 def add(a, b):
     if a == 5: # ha
-        return 0
-    return a + b
+        return f"five + {b}"
+    return a + b + 5
